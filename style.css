@@ -1,0 +1,49 @@
+.body1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#list{
+    
+    font-size: 29px;
+    font-family: sans-serif
+ }
+
+.image,
+#image{
+    width: 750px;
+    text-align: center;
+    height: auto;
+
+}
+
+
+
+h2{
+    font-size: 25px;
+
+}
+ul{
+    text-align: left;
+    font-size: 29px;
+    background-color: white;
+}
+#chicken {
+    font-size: 22px;
+}
+ol{
+    font-size: 25px;
+}
+.salad{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+}
+.textt{
+    font-size: 20px;
+}
+.sus,
+.susy{
+    font-size: 26px;
+    font-weight: 500;
+}
